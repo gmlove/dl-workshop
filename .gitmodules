@@ -1,0 +1,9 @@
+[submodule "02-03-notmnist-and-nn"]
+	path = 02-03-notmnist-and-nn
+	url = https://github.com/stayrascal/rascal-tensorflow.git
+[submodule "04-cnn"]
+	path = 04-cnn
+	url = https://github.com/YaodanZhang/tensorflow
+[submodule "05-06-rnn-and-lstm"]
+	path = 05-06-rnn-and-lstm
+	url = git@github.com:gmlove/dl-workshop-rnn-lstm.git
