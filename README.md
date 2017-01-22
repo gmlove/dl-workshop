@@ -1,4 +1,4 @@
-This is repository of all the related resources of our deep learning workshop.
+This is the repository of all the related resources of our deep learning workshop.
 
 ------------------------
 
