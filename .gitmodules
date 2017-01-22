@@ -6,4 +6,7 @@
 	url = https://github.com/YaodanZhang/tensorflow
 [submodule "05-06-rnn-and-lstm"]
 	path = 05-06-rnn-and-lstm
-	url = git@github.com:gmlove/dl-workshop-rnn-lstm.git
+    url = https://github.com/gmlove/dl-workshop-rnn-lstm.git
+[submodule "07-shvn-recognizer"]
+    path = 07-shvn-recognizer
+    url = https://github.com/gmlove/dl-workshop-shvn-recognizer.git
